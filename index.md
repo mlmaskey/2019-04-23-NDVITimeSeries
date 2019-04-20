@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "FIXME"    # dc  
+carpentry: "FIXME"    # "dc"  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "FIXME"        # University of California, Davis
 address: "FIXME"      # 360 Shields library (DSI Classroom)
