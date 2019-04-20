@@ -1,19 +1,19 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "FIXME"    # "dc"  
+carpentry: "dc"    # "dc"  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "FIXME"        # "University of California, Davis"
-address: "FIXME"      # "360 Shields library (DSI Classroom)"
-country: "FIXME"      # US
-language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+venue: "University of California, Davis"        # "University of California, Davis"
+address: "360 Shields library (DSI Classroom)"      # "360 Shields library (DSI Classroom)"
+country: "US"      # US
+language: "US"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "FIXME"    # Apr 23, 2019
-humantime: "FIXME"    # 1:00 pm - 3:00 pm
-startdate: FIXME      # 2019-04-23
-enddate: FIXME        # 2019-04-23
-instructor: ["FIXME"] # Mahesh L Maskey, Kristen Shapiro, Michelle M Tobias, Alexander I Mandel
+humandate: "Apr 23, 2019"    # Apr 23, 2019
+humantime: "1:00 pm - 3:00 pm"    # 1:00 pm - 3:00 pm
+startdate: 2019-04-23      # 2019-04-23
+enddate: 2019-04-23        # 2019-04-23
+instructor: ["Mahesh L Maskey, Kristen Shapiro, Michelle M Tobias, Alexander I Mandel"] # Mahesh L Maskey, Kristen Shapiro, Michelle M Tobias, Alexander I Mandel
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["fixme@example.org"]    # mmaskey@ucdavis.edu
+email: ["mmaskey@ucdavis.edu"]    # mmaskey@ucdavis.edu
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
