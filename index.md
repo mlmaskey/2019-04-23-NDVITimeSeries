@@ -75,8 +75,22 @@ displayed if the 'eventbrite' field in the header is not set.
 {% comment %}
 INTRODUCTION
 
-Edit the general explanatory paragraph below if you want to change
-the pitch.
+Learn how to use R over time and have a great time at this workshop. NDVI  (Normalized Difference Vegetation Index) information is very useful in various field of studies like agriculture, crop yield, types of vegetation, plant phenology, climate change, seasonal change and beyond. This workshop outlines a method to extract NDVI from Landsat remotely sensed images over different periods of year in R. In addition, participants will explore widely used R-functions in visualizing both temporal and spatial dynamics of NDVI.
+
+ 
+
+Objectives
+
+- to learn how to deal with remotely sensed images to extract physical quantities like NDVI
+
+- to visualize raster image and relevant statistics
+
+- to perform raster calculations
+
+- to extract NDVI time series from different periods of observation
+
+- to visualize spatial dynamics
+
 {% endcomment %}
 {% if page.carpentry == "swc" %}
 {% include sc/intro.html %}
