@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # "dc"  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "University of California, Davis"        # "University of California, Davis"
+venue: "Normalized Difference Vegetation Index (NDVI) Time Series Data in R"        # "University of California, Davis"
 address: "360 Shields library (DSI Classroom)"      # "360 Shields library (DSI Classroom)"
 country: "US"      # US
 language: "US"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
