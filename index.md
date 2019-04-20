@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "FIXME"    # dc  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "FIXME"        # University of California
+venue: "FIXME"        # University of California, Davis
 address: "FIXME"      # 360 Shields library (DSI Classroom)
 country: "FIXME"      # US
 language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
